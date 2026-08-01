@@ -1,246 +1,220 @@
+# 🔥 Soham Pramod Patil - Embedded Systems & IoT Architect 🔥
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=300&section=header&text=SOHAM%20PRAMOD%20PATIL&fontSize=70&fontAlignY=35&fontColor=FFFFFF&desc=Embedded%20Systems%20Engineer%20%7C%20IoT%20Architect%20%7C%20Robotics%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=110&lines=%3E+Building+intelligent+hardware+that+thinks;%3E+C%2B%2B+%7C+Python+%7C+Embedded+C+%7C+JavaScript;%3E+Arduino+%2B+ESP32+%2B+Sensors+%2B+IoT+Pipelines;%3E+Open+to+Software+%2F+Embedded+%2F+IoT+Roles" alt="Typing SVG"/>
-</a>
-
-<br>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00D9FF?style=for-the-badge&logo=briefcase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Focus-Embedded%20%26%20IoT-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=00D9FF"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## 👨‍💻 About Me
-
-I'm an embedded systems and IoT developer who builds the bridge between hardware and software — from raw sensor signals to working, deployable products. My work sits at the intersection of **firmware, connectivity, and applied AI**, and I care about writing code that behaves the same on a dev board as it does in the field.
-
-```javascript
-const soham = {
-    role: "Embedded Systems & IoT Developer",
-    location: "Mumbai, India 🇮🇳",
-    languages: {
-        proficient: ["C++", "C", "Python"],
-        working: ["JavaScript", "Embedded Assembly"],
-    },
-    domains: [
-        "Embedded Systems", "IoT Architecture", "Robotics",
-        "Computer Vision", "Sensor Fusion", "Automation"
-    ],
-    hardware: {
-        microcontrollers: ["Arduino", "ESP32", "ESP8266", "Raspberry Pi"],
-        sensors: ["DHT22", "MPU6050", "HC-SR04"],
-        protocols: ["I2C", "SPI", "UART", "Bluetooth", "WiFi"]
-    },
-    currentlyBuilding: "IoT systems that make everyday infrastructure smarter",
-    lookingFor: "Roles / collaborations in embedded software, IoT, and robotics",
-    funFact: "I debug hardware with LEDs and software with console.log() 😄",
-    philosophy: "Technology is best when it brings people together 💙"
-};
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                    💀 EMBEDDED SYSTEMS ENGINEER 💀                        ║
+║        🔴 Building the Future One Circuit at a Time 🔴                    ║
+║                  "Technology is best when it brings                        ║
+║                      people together" 🚀                                   ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🧬 Skill Matrix
-
-A quick read for teams scanning my depth vs. breadth — sorted by where I spend the most time.
-
-<div align="center">
-
-| Domain | Stack | Proficiency |
-|---|---|:---:|
-| **Embedded Programming** | C, C++, Embedded C, Arduino IDE, PlatformIO | ████████░░ 80% |
-| **IoT & Connectivity** | ESP32, ESP8266, MQTT, WiFi, Bluetooth, I2C/SPI/UART | ███████░░░ 75% |
-| **Computer Vision / AI** | Python, OpenCV, YOLO, Jupyter | ██████░░░░ 65% |
-| **Robotics & Automation** | Sensors (MPU6050, HC-SR04, DHT22), Actuators, Motion Control | ███████░░░ 70% |
-| **Web / Scripting** | JavaScript, HTML, CSS | █████░░░░░ 55% |
-| **Tools & DevOps** | Git, GitHub, VS Code, Docker, CMake | ███████░░░ 70% |
+![Status](https://img.shields.io/badge/Status-Available%20for%20Projects-ff0000?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-Embedded%20Systems-cc0000?style=for-the-badge&logo=arduino&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-990000?style=for-the-badge&logo=google-maps&logoColor=white)
 
 </div>
-
-<div align="center">
-
-**Core Stack**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark"/>
-
-**Hardware & Embedded**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark"/>
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,cmake,docker&theme=dark"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=work4soham&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=work4soham&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=work4soham&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=10" width="65%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=work4soham&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Issues"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=work4soham&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/work4soham/work4soham/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-<img src="https://raw.githubusercontent.com/work4soham/work4soham/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-
-</div>
-
-> ⚠️ **Setup required (one-time):** this animation is generated by a scheduled GitHub Action, not by GitHub itself — it won't appear until the workflow below exists in your `work4soham/work4soham` repo. See **"Activating the Snake Animation"** at the bottom of this README for the exact file to add.
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 [Arduino](https://github.com/work4soham/Arduino)
-Microcontroller & embedded systems experiments — hardware interfacing, sensor integration, and low-level control logic.
-`C++` `Arduino IDE` `Embedded`
-
-</td>
-<td width="50%">
-
-### 🎯 [YOLO Object Detection](https://github.com/work4soham/Yolo_Object-Detection)
-Real-time object detection pipeline built around the YOLO architecture for vision-driven automation.
-`Python` `Computer Vision` `YOLO`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🖐️ [Hand Gesture Control](https://github.com/work4soham/Hand_gesture-src-code)
-Touchless system-volume control driven entirely by real-time hand-gesture recognition.
-`Python` `OpenCV` `HCI`
-
-</td>
-<td width="50%">
-
-### 💬 [AI ChatBot](https://github.com/work4soham/AI_ChatBot_Python-master)
-Conversational AI assistant prototyped and iterated inside a Jupyter Notebook workflow.
-`Python` `Jupyter` `NLP`
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 📋 [AI Project Manager](https://github.com/work4soham/Ai-Project-Manager)
-An AI-assisted project management tool aimed at automating planning and tracking overhead.
-`Python` `Automation` `AI`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🎯 Roadmap
-
-```mermaid
-graph LR
-    A[Learn] --> B[Build]
-    B --> C[Ship]
-    C --> D[Collaborate]
-    D --> A
-    style A fill:#00D9FF,color:#000
-    style B fill:#00D9FF,color:#000
-    style C fill:#00D9FF,color:#000
-    style D fill:#00D9FF,color:#000
-```
-
-- [ ] 🔥 Cross 100+ meaningful GitHub contributions
-- [ ] 🚀 Ship 5 production-grade IoT projects
-- [ ] 📚 Go deep on ESP32/ESP8266 low-power design
-- [ ] 🤝 Contribute to 10 open-source repositories
-- [ ] 📝 Publish technical write-ups on embedded systems
-- [ ] 🎓 Complete an advanced embedded systems certification
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/work4soham"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=work4soham&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/work4soham?label=Followers&style=for-the-badge&color=00D9FF&logo=github"/>
-<img src="https://img.shields.io/github/stars/work4soham?label=Stars&style=for-the-badge&color=00D9FF&logo=github"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=footer"/>
 
 ---
 
-### ⚙️ Activating the Snake Animation
+## 🎯 Quick Overview
 
-The snake graphic above is **not automatic** — GitHub doesn't generate it natively. To make it real:
-
-1. In your `work4soham/work4soham` repo, create `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: work4soham
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```javascript
+const Soham = {
+    pronouns: ["He", "Him"],
+    title: "Embedded Systems Engineer | IoT Enthusiast | Hardware Hacker",
+    location: "Mumbai, India 🇮🇳",
+    passion: "Building intelligent devices that solve real-world problems",
+    
+    expertise: {
+        embedded: ["Arduino", "ESP32", "ESP8266", "STM32", "Raspberry Pi"],
+        languages: ["C++", "C", "Python", "JavaScript", "Assembly"],
+        hardware: ["Microcontrollers", "Sensors", "PCB Design", "I2C", "SPI", "UART"],
+        iot: ["WiFi", "Bluetooth", "Wireless Communication", "Telemetry"],
+        tools: ["PlatformIO", "Arduino IDE", "Proteus", "Git", "VS Code"]
+    },
+    
+    currentlyWorking: "Innovative IoT solutions & open-source projects",
+    funFact: "I debug with LEDs, code with passion, and prototype with 🔥"
+};
 ```
 
-2. Commit it, then run it once manually from the **Actions** tab (`workflow_dispatch`) so the `output` branch gets created immediately instead of waiting for midnight UTC.
-3. That's it — the SVGs referenced in this README will start rendering your real contribution snake within a few minutes.
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎮 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Hardware & Microcontrollers
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22182?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📡 Embedded Technologies
+- **Microcontrollers**: Arduino, ESP32, ESP8266, STM32
+- **Sensors**: DHT22, MPU6050, HC-SR04, Ultrasonic, Temperature, Motion
+- **Communication**: I2C, SPI, UART, Serial, Bluetooth, WiFi
+- **Protocols**: TCP/IP, HTTP, MQTT, BLE
+- **Platforms**: Arduino IDE, PlatformIO, Proteus
+
+### 🔧 Development Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=work4soham&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=work4soham&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Arduino & Embedded Systems
+Your collection of microcontroller projects covering:
+- **Sensor Integration**: Working with multiple sensors (DHT22, MPU6050, HC-SR04)
+- **Hardware Interfacing**: LED control, motor drivers, relay modules
+- **IoT Connectivity**: WiFi and Bluetooth enabled projects
+- **Home Automation**: Smart home prototypes and automation systems
+
+### 🔧 IoT Solutions
+Projects leveraging ESP32/ESP8266 for:
+- Remote monitoring systems
+- Wireless data transmission
+- Real-time telemetry
+- Connected device prototypes
+
+### 🌐 Hardware Communication
+- I2C/SPI protocol implementations
+- UART serial communication
+- Wireless communication frameworks
+- Sensor data acquisition systems
+
+---
+
+## 💼 Expertise Highlights
+
+| Category | Skills |
+|----------|--------|
+| **Microcontrollers** | Arduino, ESP32, ESP8266, STM32, Raspberry Pi |
+| **Sensors & Actuators** | Temperature, Humidity, Motion, Ultrasonic, Accelerometer |
+| **Communication** | I2C, SPI, UART, Bluetooth, WiFi, LoRa |
+| **Programming** | C, C++, Python, JavaScript, Assembly |
+| **Tools & IDE** | Arduino IDE, PlatformIO, Proteus, VS Code, Git |
+| **Protocols** | TCP/IP, HTTP, MQTT, BLE, Modbus |
+| **Hardware Design** | PCB Layout, Circuit Design, Schematic Creation |
+
+---
+
+## 🎓 Current Learning & Goals for 2025
+
+```
+✨ Goals for 2025 ✨
+├── 🔥 Achieve 100+ GitHub Contributions
+├── 🚀 Launch 5 Advanced IoT Projects
+├── 📚 Master ESP32 Advanced Programming
+├── 🤝 Contribute to 10+ Open Source Projects
+├── 📝 Write Technical Blogs on Embedded Systems
+├── 🎯 Complete Advanced Embedded Systems Certification
+└── 💡 Build 1 Commercial IoT Product
+```
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/work4soham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-patil-3b9863382/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io-badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=work4soham&theme=react-dark&bg_color=0d1117&color=ff0000&line=cc0000&point=ff0000&area=true&hide_border=true)
+
+---
+
+## 🎮 Let's Build Something Awesome!
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║           Open to Collaborations & Exciting Projects!             ║
+║                                                                    ║
+║  ✉️  Let's discuss: IoT, Embedded Systems, Arduino Projects       ║
+║  💡 Ideas? Send me an email or connect on LinkedIn                ║
+║  🔥 "Great things are done by a series of small things            ║
+║      brought together" - Vincent Van Gogh                         ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📚 Recent Activity & Highlights
+
+- 🔴 Actively working on IoT projects
+- 🔴 Contributing to open-source embedded systems projects
+- 🔴 Learning advanced microcontroller programming
+- 🔴 Building smart home automation solutions
+- 🔴 Documenting IoT best practices
+
+---
+
+## 💻 Profile Customization
+
+**Profile Color Theme**: Red/Dark Mode (🔥 Hell Theme)
+**Specialization**: Embedded Systems & IoT
+**Focus Areas**: Hardware Programming, Sensor Integration, Wireless Communication
+
+---
+
+<div align="center">
+
+### ⭐ If my projects helped you, consider giving a star!
+
+![Red Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+**Made with 💔 and lots of ☕ | All rights reserved © 2025 Soham Patil**
+
+![Red Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+</div>
+
+---
+
+## 🌟 Pro Tips for Your GitHub Profile
+
+1. **Keep updating**: Add new projects regularly
+2. **Write good READMEs**: Document your projects well
+3. **Use badges**: Show your tech stack with pride
+4. **Contribute to OSS**: Build your community presence
+5. **Share your journey**: Write blogs about your experiences
+
+---
+
+**Last Updated**: 2026 | Built with passion 🔥
